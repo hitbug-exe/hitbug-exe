@@ -1,16 +1,20 @@
-### Hi there 👋
+### echo -e Hello, World
 
-<!--
-**hitbug-exe/hitbug-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me: Anon Hobbyist hacker[!=cracker] building software for fun.
 
-Here are some ideas to get you started:
+<Ignore>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"""I am a deep generalist who is annoyingly optimistic. I build boring businesses [Waste Management, Real Estate, Consultancy] and interesting software [Recommendation systems, Programming Languages, Privacy-Preserving P2P networks]. I advocate Free and Open-Source Software and Open Science. I believe in individual sovereignty and free and unbiased information."""
+
+</Ignore>
+
+Languages: I am mostly language/stack agnostic. Love everything close to the metal AND python lol. 
+
+<Ignore>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitbug-exe)](https://github.com/anuraghazra/github-readme-stats)
+
+</Ignore>
+
+Open Research projects: Neural-aided drug design, mini-LLM on a chip, Nash equilibrium as a bargaining problem.
+
