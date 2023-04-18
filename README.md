@@ -10,11 +10,5 @@ About me: Anon Hobbyist hacker[!=cracker] building software for fun.
 
 Languages: I am mostly language/stack agnostic. Love everything close to the metal AND python lol. 
 
-<Ignore>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitbug-exe&layout=compact)]
-
-</Ignore>
-
 Open Research projects: Neural-aided drug design, mini-LLM on a chip, Nash equilibrium as a bargaining problem.
 
