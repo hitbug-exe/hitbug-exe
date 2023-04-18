@@ -12,7 +12,7 @@ Languages: I am mostly language/stack agnostic. Love everything close to the met
 
 <Ignore>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hitbug-exe/MRPR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitbug-exe&layout=compact)](https://github.com/hitbug-exe/MRPR)
 
 </Ignore>
 
