@@ -10,5 +10,5 @@ About me: Anon Hobbyist hacker[!=cracker] building software for fun.
 
 Languages: I am mostly language/stack agnostic. Love everything close to the metal AND python lol. 
 
-Open Research projects: Neural-aided drug design, mini-LLM on a chip, Nash equilibrium as a bargaining problem.
+Open Research projects: Neural-aided drug design, mini-LLM on a chip, Cancer therapy using the stackelberg model, Fairness and Reciprocity in Quadratic Voting.
 
